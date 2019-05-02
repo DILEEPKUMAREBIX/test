@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 02 20:08:20 IST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1554215900043
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.3.0 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\User\\.m2\\repository\\javax\\xml\\bind\\jaxb-api\\2.3.0\\aether-b8d94030-e476-4728-9aba-45ea59dfde8f-jaxb-api-2.3.0.jar-in-progress (The system cannot find the file specified)

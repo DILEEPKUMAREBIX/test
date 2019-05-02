@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 01 01:32:45 IST 2019
+@default-spring-libs-release-https\://repo.spring.io/libs-release/.lastUpdated=1544031408411
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.springframework.hateoas\:spring-hateoas\:jar\:0.25.0.RELEASE from/to spring-libs-release (https\://repo.spring.io/libs-release)\: The operation was cancelled.
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.springframework.hateoas\:spring-hateoas\:jar\:0.25.0.RELEASE from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1551384165521
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1544031408595

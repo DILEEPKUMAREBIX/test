@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 29 10:31:49 IST 2019
+osgi-resource-locator-1.0.1-sources.jar>central=
+osgi-resource-locator-1.0.1.jar>central=
+osgi-resource-locator-1.0.1.pom>central=

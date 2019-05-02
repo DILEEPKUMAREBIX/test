@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun May 20 17:43:54 IST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1526818434057
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-war-plugin\:jar\:2.2 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\User\\.m2\\repository\\org\\apache\\maven\\plugins\\maven-war-plugin\\2.2\\aether-0aed792c-4d0d-4bcc-942f-1c2631a3b313-maven-war-plugin-2.2.jar-in-progress (The system cannot find the file specified)
